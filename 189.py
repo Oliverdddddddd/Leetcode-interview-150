@@ -15,4 +15,4 @@ class Solution:
                 start += 1
                 end-=1
         rev(0,j-1)
-        rev(j,len(nums)-1)
+        rev(j, len(nums)-1)
